@@ -1,4 +1,4 @@
-# Red-Alerts-Analyze - Data Science Project
+# Red-Alerts-Analyze - Data Science Project - (Python)
 
 Since 2014 has been over 23,000 alerts in Israel.
 In our project we want to explore and analyze the data
